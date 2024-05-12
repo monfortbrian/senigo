@@ -11,6 +11,7 @@ export const headerLinks = [
     label: 'My Profile',
     route: '/profile',
   },
+  
 ]
 
 export const eventDefaultValues = {
